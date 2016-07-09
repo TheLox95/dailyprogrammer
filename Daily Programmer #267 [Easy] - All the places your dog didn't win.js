@@ -47,12 +47,7 @@ function print(position, places /* BONUS 1 */){
       if(
        i < 20 & i > 10 || // BONUS 3!
        lastDigitInNumber === 0 ||
-       lastDigitInNumber === 4 ||
-       lastDigitInNumber === 5 ||
-       lastDigitInNumber === 6 ||
-       lastDigitInNumber === 7 ||
-       lastDigitInNumber === 8 ||
-       lastDigitInNumber === 9
+       lastDigitInNumber >= 4 & lastDigitInNumber <= 9
       ){
       sufix = "th";
       }else if(lastDigitInNumber === 1){
