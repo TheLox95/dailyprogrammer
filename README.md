@@ -20,3 +20,7 @@ My goal is to complete a challenge every saturday! Wish me luck!
 - [X] 27/08/2016
 
 - [X] 03/09/2016
+
+- [X] 10/09/2016
+
+- [X] 17/09/2016
