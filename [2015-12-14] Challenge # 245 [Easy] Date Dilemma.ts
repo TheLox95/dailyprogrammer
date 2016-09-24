@@ -89,11 +89,11 @@ function parseDates(dates){
 
 	dates = dates.split("\n");
 
-	for (let i = 0; i < dates.length; i++) {
+	for (let i of dates) {
 		for (let a of dateParserCollection) {
-			let res = dates[i].match(a.regExp);
-			if (res !== null) {
-				newDates += `${a.parseFun(res)}\n`;
+			let hasMatch = i.match(a.regExp);
+			if (hasMatch !== null) {
+				newDates += `${a.parseFun(hasMatch)}\n`;
 
 			}
 		}
