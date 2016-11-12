@@ -38,3 +38,5 @@ My goal is to complete a challenge every saturday! Wish me luck!
 - [ ] 29/10/2016 **Too busy/Celebrating the publishing of my app [Check It Out!](https://play.google.com/store/apps/details?id=org.TheLoxGames.ProgrammingChallenges)**
 
 - [X] 5/11/2016
+
+- [X] 12/11/2016
